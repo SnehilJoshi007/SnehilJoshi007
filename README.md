@@ -78,8 +78,8 @@ An end-to-end Machine Learning project that predicts disease risk using syntheti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnehilJoshi007&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehilJoshi007&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SnehilJoshi007&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SnehilJoshi007&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@ An end-to-end Machine Learning project that predicts disease risk using syntheti
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SnehilJoshi007&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SnehilJoshi007&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
